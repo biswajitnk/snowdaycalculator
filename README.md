@@ -1,4 +1,4 @@
-# snowdaycalculator
+# Snow Day Calculator
 This is my Snow Day Calculator, which helps predict snow days. It’s useful for students, teachers, and many others.
 
 A tool that predicts snow days based on weather conditions. This calculator helps students, teachers, and others determine the likelihood of school closures due to snow.
